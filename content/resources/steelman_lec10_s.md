@@ -7,6 +7,8 @@ description: 'This resource contains the following topics:
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/760afc04004be885e4f21efab39018d1_steelman_lec10_s.pdf
 file_size: 1428476
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

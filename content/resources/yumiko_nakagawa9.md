@@ -5,6 +5,8 @@ description: This resource is the reaction paper by the student Yumiko Nakagawa 
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/3371dfede46f07dc7525bcbf6106e6a4_yumiko_nakagawa9.pdf
 file_size: 72727
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

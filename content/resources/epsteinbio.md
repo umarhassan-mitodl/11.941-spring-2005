@@ -4,6 +4,8 @@ description: This resource contains the biography of Epstein.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/2318dc28bbdf16e24c3192acd3bb84de_epsteinbio.pdf
 file_size: 47151
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

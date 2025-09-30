@@ -5,6 +5,8 @@ description: This resource contains the global science and policy context, urban
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/8d9573556bd7a63ec13af323de9b6a2d_pelling_lect2.pdf
 file_size: 142982
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

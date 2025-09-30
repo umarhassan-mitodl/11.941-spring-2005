@@ -5,6 +5,8 @@ description: This resource is the reaction paper by Cheryl Lowry on the topic 'T
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/96498b55aa72dc10cbbf9fe559aed9d3_cheryl_lowry6.pdf
 file_size: 48496
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

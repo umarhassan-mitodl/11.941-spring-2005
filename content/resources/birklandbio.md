@@ -4,6 +4,8 @@ description: This resource contains the biography of Birkland.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/84d709b3c2a570db5a16dfb78547c114_birklandbio.pdf
 file_size: 66699
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

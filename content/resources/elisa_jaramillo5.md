@@ -5,6 +5,8 @@ description: This resource is the reaction paper by Elisa Jaramillo on the topic
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/f00006e62932c19cfb5ae6ce84ae596f_elisa_jaramillo5.pdf
 file_size: 49561
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource is the reaction paper by Jeevan Sahota on the topic '
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/351ca0219f5b0aa3a27c6c7f9c3659e6_jeevan_sahota10.pdf
 file_size: 105460
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -7,6 +7,8 @@ description: 'This resource covers problem definition
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/d5c88781e5e8d69b41f4791f6fa0a903_birkland_lect8_s.pdf
 file_size: 195087
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

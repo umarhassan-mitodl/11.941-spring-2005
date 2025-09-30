@@ -4,6 +4,8 @@ description: Reaction paper by Anisha on the topic 'Governance and Community Res
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/97bb1a6ab411cd632b313d2828e945f4_anisha_budhira10.pdf
 file_size: 84243
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

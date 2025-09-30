@@ -4,6 +4,8 @@ description: This resource contains the biography of Platt.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/b96fb7f853a5eee052a90928dbb7c1c4_plattbio.pdf
 file_size: 66757
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

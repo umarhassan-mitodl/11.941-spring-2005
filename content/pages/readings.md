@@ -2,6 +2,8 @@
 content_type: page
 description: The readings section contains week-wise distribution of the readings
   required for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -70,15 +72,15 @@ Pelling, Mark. "Assessing Urban Vulnerability and Social Adaptation to Risk: Evi
 
 Bull-Kamanga, L., K. Diagne, A. Lavell, E. Leon, F. Lerise, H. MacGregor, A. Maskrey, M. Meshack, M. Pelling, H. Reid, D. Satterthwaite, J. Songsore, K. Westgate, and A. Yitambe. "From Everyday Hazards to Disasters: The Accumulation of Risk in Urban Areas." _Environment and Urbanization_ 15, no. 1 (2003): 193-203.
 
-Review: Hyogo Declaration ({{% resource_link "9583a177-d1e5-4685-90f7-c8ea9c42b3f3" "PDF" %}})
+Review: Hyogo Declaration ([PDF](http://www.unisdr.org/wcdr/intergover/official-doc/L-docs/Hyogo-declaration-english.pdf))
 
-Review of the Yokohama Strategy and Plan of Action for a Safer World. ({{% resource_link "c3fc3cf5-c2b5-4836-9cd1-89061425dc3b" "PDF" %}})
+Review of the Yokohama Strategy and Plan of Action for a Safer World. ([PDF](http://www.unisdr.org/wcdr/intergover/official-doc/L-docs/Yokohama-Strategy-English.pdf))
 
 _Recommended_
 
 Pelling, Mark. "Natural Disasters?" In _Social Nature_. Edited by N. Castree, and B. Braun. Malden, MA: Blackwell, 2001, pp. 170-188. ISBN: 0631215689.
 
-_Reducing Disaster Risk: A Challenge for Development_. UNDP, 2004. (Particularly chapter 2) ({{% resource_link "c6872cb8-32cd-4123-b463-b83acce4f8b1" "PDF - 3.9 MB" %}})
+_Reducing Disaster Risk: A Challenge for Development_. UNDP, 2004. (Particularly chapter 2) ([PDF - 3.9 MB](http://www.undp.org/content/dam/undp/library/crisis%20prevention/disaster/asia_pacific/Reducing%20Disaster%20risk%20a%20Challenge%20for%20development.pdf))
 
 
 {{< tdclose >}}
@@ -302,7 +304,7 @@ Toddi A. Steelman, North Carolina State University
 
 Brunner, Ronald D. "Problems of Governance." In _Finding Common Ground: Governance and Natural Resources in the American West_. Edited by Ronald D. Brunner, Christine H. Colburn, Christina M. Cromley, Roberta A. Klein, and Elizabeth A. Olson. New Haven, CT: Yale University Press, 2002, pp. 1-47. ISBN: 0300091451.
 
-Review the materials on "{{% resource_link "9ab43762-022e-4a1c-acfc-2c8067594458" "Community Responses to Wildland Fire Threats" %}}."
+Review the materials on "[Community Responses to Wildland Fire Threats](http://www.ncsu.edu/project/wildfire/)."
 
 
 {{< tdclose >}}

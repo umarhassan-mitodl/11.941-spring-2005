@@ -4,6 +4,8 @@ description: This resource contains the biography of Steelman.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/48b3cbb28485b3d56c362fb5030d7700_steelmanbio.pdf
 file_size: 64035
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource gives an introduction to Why study disasters from the
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7587332e0bc763e3a2fe1db537f110e8_birkland_lect8.pdf
 file_size: 141314
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

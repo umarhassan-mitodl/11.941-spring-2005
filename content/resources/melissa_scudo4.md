@@ -5,6 +5,8 @@ description: This resource is the reaction paper by Melissa Scudo on the topics 
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/fdaa04b5bd8e76d535ddccfcaaaf2014_melissa_scudo4.pdf
 file_size: 78392
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

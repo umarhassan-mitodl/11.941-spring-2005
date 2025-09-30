@@ -5,6 +5,8 @@ description: This resource is the reaction paper by Naohiko Omata on the topic '
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7d10abbf97e6df15ac728bc251c6ec95_naohiko_omata6.pdf
 file_size: 52634
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
