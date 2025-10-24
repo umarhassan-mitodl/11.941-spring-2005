@@ -5,8 +5,6 @@ description: 'This resource talks about the challenge or theme illustrated by th
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/b6f338aef3830d954f96bbaf2bb2cbe4_ernest_guevara11.pdf
 file_size: 41591
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: 'This resource is the reaction paper by Timothy Russell on the topi
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/39642c9726417788e8e45f2f09e7c349_timothy_russell9.pdf
 file_size: 146175
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

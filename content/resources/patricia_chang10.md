@@ -5,8 +5,6 @@ description: This resource is the reaction paper of the student on the topic 'Go
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/c1beab76494696131d680ad322764684_patricia_chang10.pdf
 file_size: 53731
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

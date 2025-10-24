@@ -5,8 +5,6 @@ description: This resource contains the discussion on how modern cities recover 
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/45999f98dfc2ef2217fcacd4d63fb341_vale_lect9rev.pdf
 file_size: 154321
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

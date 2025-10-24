@@ -6,8 +6,6 @@ description: 'This resource contains the following topics:
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/6734f3c2ab31b1fcee1bce13a9304bb7_epstein_lect4_s.pdf
 file_size: 2664166
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

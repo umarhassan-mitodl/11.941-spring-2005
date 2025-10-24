@@ -2,8 +2,6 @@
 content_type: page
 description: Lecture notes contains both the slides presented in class and a complementary
   set of notes along with lecturer's bio.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

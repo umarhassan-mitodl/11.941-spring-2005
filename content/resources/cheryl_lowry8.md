@@ -5,8 +5,6 @@ description: This resource is the reaction paper by the student on the topic 'Di
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/38beef65a64f3c7f412885820e936bd6_cheryl_lowry8.pdf
 file_size: 47834
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

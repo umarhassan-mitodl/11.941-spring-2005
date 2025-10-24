@@ -5,8 +5,6 @@ description: This resource is the reaction paper by Makiko Kikuchi on the topics
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/d2cb3d21d56ff2a5bbd67299ff392d19_makiko_kikuchi4.pdf
 file_size: 50067
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

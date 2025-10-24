@@ -4,8 +4,6 @@ description: This resource contains the biography of Lofstedt.
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7e16dbd1db2d16adc5b07bca0813640b_lofstedtbio.pdf
 file_size: 61813
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

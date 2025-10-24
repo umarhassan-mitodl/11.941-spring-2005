@@ -5,8 +5,6 @@ description: This resource provides information on "Organizing for High Reliabil
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/7340a103a71a088fe64736b0330585b4_rudolph_lect11.pdf
 file_size: 126486
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

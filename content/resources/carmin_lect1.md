@@ -5,8 +5,6 @@ description: This resource contains the introduction, background of the course w
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/290eca333caf2e019a298501eae6cae0_carmin_lect1.pdf
 file_size: 132687
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

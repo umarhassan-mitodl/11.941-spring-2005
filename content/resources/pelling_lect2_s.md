@@ -7,8 +7,6 @@ description: 'This resource contains the following topics:
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/273e8c4709c9f2124945ffb5d2a97b8a_pelling_lect2_s.pdf
 file_size: 289101
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

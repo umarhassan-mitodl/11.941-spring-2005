@@ -5,8 +5,6 @@ description: 'This resource is the reaction paper on ''Introduction: Disasters B
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/a422398cde201f4e74801b591ed772b4_anisha_budhiraj5.pdf
 file_size: 73712
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: 'This resource is the reaction paper by Amy Mowl on the topic ''Res
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/0a11b86f812406efd722e9b32ff80a7c_amy_mowl9.pdf
 file_size: 57764
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

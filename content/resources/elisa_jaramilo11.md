@@ -6,8 +6,6 @@ description: 'This resource talks about the theme illustrated by this reaction p
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/c68ba232a5e47ea0a1969522fccd23d3_elisa_jaramilo11.pdf
 file_size: 90587
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

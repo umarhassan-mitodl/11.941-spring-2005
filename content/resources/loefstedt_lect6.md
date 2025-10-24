@@ -6,8 +6,6 @@ description: 'This resource contains the following topics:
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/910cad9c88bc70f4691e148986bc2f4c_loefstedt_lect6.pdf
 file_size: 117473
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

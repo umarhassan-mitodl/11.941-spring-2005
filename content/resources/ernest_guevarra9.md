@@ -5,8 +5,6 @@ description: This resource is the reaction paper by Ernest Guevarra on the topic
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/a1008290219a4b34e58fa74ef048c3b9_ernest_guevarra9.pdf
 file_size: 31885
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: This resource is the reaction paper by Jenny Suckale on the topic '
 file: /courses/11-941-disaster-vulnerability-and-resilience-spring-2005/fa9fc6f786182081e47162c9382e07b9_jenny_suckale8.pdf
 file_size: 47630
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
