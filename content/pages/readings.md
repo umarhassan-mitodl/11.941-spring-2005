@@ -70,15 +70,15 @@ Pelling, Mark. "Assessing Urban Vulnerability and Social Adaptation to Risk: Evi
 
 Bull-Kamanga, L., K. Diagne, A. Lavell, E. Leon, F. Lerise, H. MacGregor, A. Maskrey, M. Meshack, M. Pelling, H. Reid, D. Satterthwaite, J. Songsore, K. Westgate, and A. Yitambe. "From Everyday Hazards to Disasters: The Accumulation of Risk in Urban Areas." _Environment and Urbanization_ 15, no. 1 (2003): 193-203.
 
-Review: Hyogo Declaration ([PDF](http://www.unisdr.org/wcdr/intergover/official-doc/L-docs/Hyogo-declaration-english.pdf))
+Review: Hyogo Declaration ({{% resource_link "aafd069e-00fd-4b4a-9a00-a2bdda4a4a17" "PDF" %}})
 
-Review of the Yokohama Strategy and Plan of Action for a Safer World. ([PDF](http://www.unisdr.org/wcdr/intergover/official-doc/L-docs/Yokohama-Strategy-English.pdf))
+Review of the Yokohama Strategy and Plan of Action for a Safer World. ({{% resource_link "666837ee-a7cb-46dc-8d8c-9dbcc2d8449f" "PDF" %}})
 
 _Recommended_
 
 Pelling, Mark. "Natural Disasters?" In _Social Nature_. Edited by N. Castree, and B. Braun. Malden, MA: Blackwell, 2001, pp. 170-188. ISBN: 0631215689.
 
-_Reducing Disaster Risk: A Challenge for Development_. UNDP, 2004. (Particularly chapter 2) ([PDF - 3.9 MB](http://www.undp.org/content/dam/undp/library/crisis%20prevention/disaster/asia_pacific/Reducing%20Disaster%20risk%20a%20Challenge%20for%20development.pdf))
+_Reducing Disaster Risk: A Challenge for Development_. UNDP, 2004. (Particularly chapter 2) ({{% resource_link "a8a30863-80b0-4cec-9176-f4f2f672e7b3" "PDF - 3.9 MB" %}})
 
 
 {{< tdclose >}}
@@ -302,7 +302,7 @@ Toddi A. Steelman, North Carolina State University
 
 Brunner, Ronald D. "Problems of Governance." In _Finding Common Ground: Governance and Natural Resources in the American West_. Edited by Ronald D. Brunner, Christine H. Colburn, Christina M. Cromley, Roberta A. Klein, and Elizabeth A. Olson. New Haven, CT: Yale University Press, 2002, pp. 1-47. ISBN: 0300091451.
 
-Review the materials on "[Community Responses to Wildland Fire Threats](http://www.ncsu.edu/project/wildfire/)."
+Review the materials on "{{% resource_link "13c00829-dc0e-4620-947c-de681c0b91ef" "Community Responses to Wildland Fire Threats" %}}."
 
 
 {{< tdclose >}}
